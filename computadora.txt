@@ -1,0 +1,16 @@
+Asus
+Windows
+4
+128
+Macbook Air
+IOS
+16
+512
+iMac
+IOS
+4
+128
+MacBook Pro
+IOS
+8
+256
